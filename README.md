@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farnadkz
-- 👀 I’m interested in CyberSecurity and Software Development
-- 🌱 I’m currently working on my Computer security degree and self teaching myself Security+
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CyberSecurity and Data Science
+- 🌱 I’m a new graduate from university looking to start in the Data science field!
+- 💞️ I’m looking to collaborate on data science projects using ML
 - 📫 How to reach me: Farnadk123@gmail.com 
 
 <!---
